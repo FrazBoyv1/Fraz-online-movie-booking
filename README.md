@@ -1,14 +1,14 @@
-# FZ online-movie-booking
+# FZ MOVIE BOOKING SITE
 I doveloped this project using Core PHP,HTML,JavaScript,CSS,Bootstrap.
 
 # Note
-1. This project is for college and study only
+1. CHILD'S NOT ALLOWED🎭🎭
 2. that is not use for Commercial project
 
 # Screenshot
 
 ## 1. Home page ##
-![home1](https://user-images.githubusercontent.com/104883953/167260990-670d3197-5c62-44bc-b821-fcc8d0efd36d.jpg)
+![home1](https://user-images.githubusercontent.com/104883953/167261156-947f1206-6d2f-48c5-b3ba-319ff50b2e95.jpg)
 ![home2](https://user-images.githubusercontent.com/104883953/167261156-947f1206-6d2f-48c5-b3ba-319ff50b2e95.jpg)
 
 ## 2. All Movie ##
